@@ -23,9 +23,8 @@ Os dados estão no arquivo `vendas_loja.csv` e contêm:
 
 ## 🔧 Tecnologias Utilizadas
 
-- **Python 3.x** - Linguagem de programação
+- **Python** - Linguagem de programação
 - **Pandas** - Manipulação e análise de dados
-- **Matplotlib** - Visualização de dados (gráficos)
 - **Jupyter Notebook** - Ambiente de desenvolvimento
 
 ---
